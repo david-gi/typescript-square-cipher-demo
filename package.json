@@ -1,0 +1,17 @@
+{
+  "name": "typescript-square-cipher-demo",
+  "version": "1.0.0",
+  "author": "",
+  "private": false,
+  "devDependencies": {
+    "@types/jest": "^25.2.3",
+    "@types/node": "^14.0.12",
+    "jest": "^26.0.1",
+    "ts-jest": "^26.1.0",
+    "typescript": "^3.9.5"
+  },
+  "scripts": {
+    "test": "yarn lint:types && jest --no-cache"
+  },
+  "dependencies": {}
+}
